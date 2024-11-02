@@ -7,7 +7,7 @@ API Key Authentication: Users must provide an OpenAI API key to initiate interac
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/streamlit-chatbot.git
+git clone https://github.com/sheematabasum/chatbot.git
 cd streamlit-chatbot
 
 Install required dependencies:
