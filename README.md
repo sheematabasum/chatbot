@@ -4,8 +4,8 @@ Features
 User-friendly Chat Interface: Built with Streamlit to provide a clean, interactive experience.
 Dynamic Chat History: Messages are stored in session state, preserving chat history for the duration of the session.
 API Key Authentication: Users must provide an OpenAI API key to initiate interactions with the chatbot.
-Installation
 
+Installation
 Clone the repository:
 git clone https://github.com/sheematabasum/chatbot.git
 cd streamlit-chatbot
@@ -15,6 +15,10 @@ pip install openai streamlit
 
 Run the application:
 streamlit run app.py
+
+screenshot link:
+![Screenshot (19)](https://github.com/user-attachments/assets/6a2967a9-b9b9-45b6-a67c-588055e70c02)
+
 
 Usage
 Launch the app, and it will open in a new browser tab.
